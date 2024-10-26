@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "chatter-usb-tap")(type "KiCad")(uri "${KIPRJMOD}/chatter-usb-tap.pretty")(options "")(descr ""))
+)
